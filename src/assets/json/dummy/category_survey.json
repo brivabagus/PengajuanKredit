@@ -1,0 +1,18 @@
+{
+    "categorySurvey" :[
+        {
+
+            "id": 1,
+            "category": "Biodata"
+        },
+        {
+            "id": 2,
+            "category": "Agunan"
+        },
+        {
+            "id" :3,
+            "category": "Sumber Pendapatan"
+        },
+        
+    ]
+}

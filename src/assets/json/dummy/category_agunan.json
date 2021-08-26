@@ -1,0 +1,18 @@
+{
+    "categoryAgunan" :[
+        {
+
+            "id": 1,
+            "category": "BPKB Mobil/Motor"
+        },
+        {
+            "id": 2,
+            "category": "Agunan SHM/HGB"
+        },
+        {
+            "id" :3,
+            "category": "Agunan Lainnya"
+        },
+        
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "categoryPendapatan" :[
+        {
+
+            "id": 1,
+            "category": "Gaji"
+        },
+        {
+            "id": 2,
+            "category": "Usaha"
+        },
+        {
+            "id" :3,
+            "category": "Campuran"
+        },
+        
+    ]
+}
